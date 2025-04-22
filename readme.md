@@ -5,7 +5,6 @@ A solução para o desafio do cartão de visualização de NFT no Frontend Mento
 ## Conteúdos
 - [O Desafio](#Odesafio)
 - [Captura de tela](#Capturadetela)
-- [Links](#Links)
 - [Tecnologias Utilizadas](#Tecnologiasutilizadas)
 - [Autor](Autor)
 - [Agradecimentos](Agradecimentos)
@@ -14,15 +13,8 @@ A solução para o desafio do cartão de visualização de NFT no Frontend Mento
 ### O desafio
 Os usuários evem ser capzes de visualizar o layout dependendo do tamanho da tela do dispositivo e ver os estados de hover para elementos interativos. 
 
-
 ### Captura de tela
 <img src="src/images/oprojeto.png">
-
-### Links
-URL da solução: Adicione a URL da solução aqui
-
-URL do site ao vivo: Adicione a URL do site aqui
-
 
 ### Tecnologias utilizadas
 - HTML
