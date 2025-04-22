@@ -5,6 +5,7 @@ A solução para o desafio do cartão de visualização de NFT no Frontend Mento
 ## Conteúdos
 - [O Desafio](#Odesafio)
 - [Captura de tela](#Capturadetela)
+- [Link](Link)
 - [Tecnologias Utilizadas](#Tecnologiasutilizadas)
 - [Autor](Autor)
 - [Agradecimentos](Agradecimentos)
@@ -15,6 +16,9 @@ Os usuários evem ser capzes de visualizar o layout dependendo do tamanho da tel
 
 ### Captura de tela
 <img src="src/images/oprojeto.png">
+
+### Link
+- [Projeto](https://devseravali.github.io/01-nft-preview-card/)
 
 ### Tecnologias utilizadas
 - HTML
