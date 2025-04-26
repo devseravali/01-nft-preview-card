@@ -12,7 +12,7 @@ A solução para o desafio do cartão de visualização de NFT no Frontend Mento
 
 
 ### O desafio
-Os usuários evem ser capzes de visualizar o layout dependendo do tamanho da tela do dispositivo e ver os estados de hover para elementos interativos. 
+Os usuários devem ser capazes de visualizar o layout dependendo do tamanho da tela do dispositivo e ver os estados de hover para elementos interativos. 
 
 ### Captura de tela
 <img src="src/images/oprojeto.png">
